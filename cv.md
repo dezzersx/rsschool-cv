@@ -23,4 +23,22 @@ I am 23 years old.I live in Bobruisk and working in Soligors.
 
 ### Code example 
 ***
+function sum(a, b) {
+      return a + b;
+    }
 
+    let result = sum(1, 2);
+    alert( result );
+
+
+## Education
+***
+
+* 2016-2021
+Belarusian - Russian university, Mogilev.
+
+## Languages 
+***
+
+* Russian 
+* Low English
